@@ -1,4 +1,10 @@
 (MM/DD/YY Format)
+1.1.2 - 03/05/26
+
+    Added version file support
+    Added 1 portrait to the Base pack.
+    Added 1 portrait to the Skins pack.
+
 1.1.1 - 02/21/26
 
     Added 3 flags for the following factions: IOP, 16Lab, OGAS
