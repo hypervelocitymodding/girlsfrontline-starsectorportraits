@@ -1,4 +1,5 @@
 {
+  "masterVersionFile": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/gfl1.version",
   "changelogURL": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/gfl1_changelog.md",
   "modName": "GFL1-01: Base Pack",
   "modThreadId": "34701",
