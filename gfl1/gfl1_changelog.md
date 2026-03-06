@@ -1,8 +1,8 @@
 (MM/DD/YY Format)
 
-1.1.2 - 03/05/26
+1.1.2 - 03/07/26
 
-    Added version file support
+    Added version checking support
     Added 1 portrait to the Base pack.
     Added 1 portrait to the Skins pack.
 
