@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/gfl2/gfl2.version",
+  "changelogURL": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/gfl2/gfl2_changelog.md",
+  "modName": "GFL2-01: Base Pack",
+  "modThreadId": "34955",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "1",
+      "patch": "0"
+    }
+}
