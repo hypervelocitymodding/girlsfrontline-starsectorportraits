@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/rcbg/rcbg.version",
+  "changelogURL": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/rcbg/rcbg_changelog.md",
+  "modName": "RCBG-01: Base Pack",
+  "modThreadId": "34980",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "0",
+      "patch": "1"
+    }
+}
