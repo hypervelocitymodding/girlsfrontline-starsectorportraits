@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/pnc/pnc.version",
+  "changelogURL": "https://raw.githubusercontent.com/hypervelocitymodding/girlsfrontline-starsectorportraits/refs/heads/main/pnc/pnc_changelog.md",
+  "modName": "PNC-01: Base Pack",
+  "modThreadId": "34886",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "0",
+      "patch": "1"
+    }
+}
