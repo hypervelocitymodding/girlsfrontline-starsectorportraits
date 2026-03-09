@@ -1,6 +1,6 @@
 (MM/DD/YY Format)
 
-1.1.2 - 03/07/26
+1.1.2 - 03/09/26
 
     Added version checking support
     Added 1 portrait to the Base pack.
