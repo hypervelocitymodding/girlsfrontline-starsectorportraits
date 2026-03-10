@@ -1,6 +1,6 @@
 (MM/DD/YY Format)
 
-1.0.1 - 03/09/26
+1.0.1 - 03/10/26
 
     Added version checking support.
     Added 5 portraits to the Base pack, for characters with accessories obscuring their face.
