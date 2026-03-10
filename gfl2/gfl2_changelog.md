@@ -1,6 +1,6 @@
 (MM/DD/YY Format)
 
-1.1.0 - 03/09/25
+1.1.0 - 03/10/25
 
     First of the not-so-fun 1.X.0 updates, likely not save compatible.
     Added version checking support
