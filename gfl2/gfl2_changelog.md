@@ -1,5 +1,17 @@
 (MM/DD/YY Format)
 
+
+1.3.0 - 05/23/26
+
+    Welrod Patch Update - I've seen the "Truth"
+    
+    Added 4 portraits to the Base pack. (1 moved from NPC pack)
+    Added 2 flags to the Base pack + fixed 1 flag that was broken.
+    Added 4 portraits to the Outfit Boutique pack.
+    Added 7 portraits to the White Zone Pack.
+
+    No really, I can't wait until I can (legally) update the portraits pack. I saw some cool lore stuff.
+
 1.2.0 - 04/14/26
 
     Chiral Redundancy - Part 2 update.
