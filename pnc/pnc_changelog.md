@@ -1,5 +1,9 @@
 (MM/DD/YY Format)
 
+1.0.2 - 06/17/26
+
+    Added 12 flags for various sectors within Magrasea.
+    
 1.0.1 - 03/10/26
 
     Added version checking support.
