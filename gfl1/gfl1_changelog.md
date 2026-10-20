@@ -1,5 +1,11 @@
 (MM/DD/YY Format)
 
+1.1.3 - 10/19/26
+
+    Added 1 portrait to the Base pack.
+    Added 3 flags for the following squads: AR Team, 404, DEFY
+    Added 3 portrait to the Skins pack.
+
 1.1.2 - 03/10/26
 
     Added version checking support.
