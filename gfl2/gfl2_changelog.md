@@ -1,5 +1,18 @@
 (MM/DD/YY Format)
+1.4.0 - 10/19/26
 
+    Catch-up / Igla Patch Update
+    
+    Added 16 portraits to the Base pack.
+    Added 11 flags to the Base pack 
+    Added 25 portraits to the Outfit Boutique pack. (2 moved from White Zone pack)
+    Added 31 portraits to the White Zone Pack.
+    Added 4 portraits to the Bounty Hunted Pack.
+    Several portraits have been renamed based on EN's story progression and understanding.
+
+    5 months of content added to the best of my knowledge. 
+    Would recommend against trying to tamper with your save this time.
+    Did you manage to find this yet, anon-chan?
 
 1.3.0 - 05/23/26
 
